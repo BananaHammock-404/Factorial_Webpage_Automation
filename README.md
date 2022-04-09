@@ -8,7 +8,13 @@ What you will need to run this code will be explained below:
 - you can run this preferably on IntelliJ IDEA
 - When you first download and open it, dont forget to reload all the Maven dependencies in the pom.xml file
 - I haven't made it so you can run on Terminal, but you can still Run in on the Test Files. just go to Java Class that has 'Tests' behind it and run it from there
+- When you run it, it should look something like this as the result:
+
+  ![Screenshot_3](https://user-images.githubusercontent.com/15316619/162574772-5e45003b-ab4d-4f53-96a6-79c0407a1656.png)
+
 
 Cheers! and Have fun!
 
 For the **Prospace Reqruiter**, you can access the Test Cases and Bug Report righ here: https://docs.google.com/spreadsheets/d/17KJ-ZpaMcro2k7JmBmnyYid42pDklTQsVKbWmkedP94/edit#gid=1226715583
+
+
