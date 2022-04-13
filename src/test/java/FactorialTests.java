@@ -42,6 +42,7 @@ public class FactorialTests extends BaseTests{
     public void numericText() throws InterruptedException {
         expected = factorialCalculatorPage.setFactorialNumber("12");
         factorialCalculatorPage.clickCalculateButton();
+        //  Thread.sleep(4000);
 
         // Assert the Result text is the same as the Users Input
         Assert.assertEquals(factorialCalculatorPage.getInputInResult(),
